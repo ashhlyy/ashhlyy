@@ -10,14 +10,17 @@
   </p>
   <h2>⚒ Languages and Tools</h2>
   
-  ![Java](https://img.shields.io/badge/-Java-black?style=flat&logo=java)  
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript) 
-  ![NodeJS](https://img.shields.io/badge/-NodeJS-black?style=flat&logo=Node.js)
-  ![React](https://img.shields.io/badge/-React-black?style=flat&logo=react) 
-  <br>
-  ![GitHub](https://img.shields.io/badge/-Github-black?style=flat&logo=github)
-  ![InteliJ Idea](https://img.shields.io/badge/InteliJ%20idea-black?style=flat&logo=intellij-idea)
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-black?style=flat&logo=visual-studio-code)
-  ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat&logo=mongodb)
+<img src="https://img.shields.io/badge/html-white.svg?&style=for-the-badge&logo=html5&logoColor=000000"/>
+<img src="https://img.shields.io/badge/javascript-white.svg?&style=for-the-badge&logo=javascript&logoColor=000000"/>
+<img src="https://img.shields.io/badge/typescript-white.svg?&style=for-the-badge&logo=typescript&logoColor=000000"/>
+<img src="https://img.shields.io/badge/java-white.svg?&style=for-the-badge&logo=java&logoColor=000000"/><br>
+<img src="https://img.shields.io/badge/react-white.svg?&style=for-the-badge&logo=react&logoColor=000000"/>
+<img src="https://img.shields.io/badge/python-white.svg?&style=for-the-badge&logo=python&logoColor=000000"/>
+<img src="https://img.shields.io/badge/lua-white.svg?&style=for-the-badge&logo=lua&logoColor=000000"/>
+<img src="https://img.shields.io/badge/c-white.svg?&style=for-the-badge&logo=c&logoColor=000000"/><br>
+<img src="https://img.shields.io/badge/mysql-white.svg?&style=for-the-badge&logo=mysql&logoColor=000000"/>
+<img src="https://img.shields.io/badge/postgresql-white.svg?&style=for-the-badge&logo=postgresql&logoColor=000000"/>
+<img src="https://img.shields.io/badge/mongodb-white.svg?&style=for-the-badge&logo=mongodb&logoColor=000000"/>
+<img src="https://img.shields.io/badge/oracle-white.svg?&style=for-the-badge&logo=oracle&logoColor=000000"/>
 </div>
 
