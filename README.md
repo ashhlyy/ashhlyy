@@ -19,9 +19,5 @@
   ![InteliJ Idea](https://img.shields.io/badge/InteliJ%20idea-black?style=flat&logo=intellij-idea)
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-black?style=flat&logo=visual-studio-code)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat&logo=mongodb)
-
-  <h2>💻 Some of my projects</h2>
-  <a href="I do not currently share</a> <br>
-  </details>
 </div>
 
